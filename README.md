@@ -499,7 +499,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🎓 Academic Context
 
-This project was developed as part of a Masters program in Data Science/Machine Learning, demonstrating:
+This project was developed as part of a Masters program in Data Sciencendemonstrating:
 
 - **Advanced ML Concepts**: Gradient boosting theory, statistical learning bounds
 - **Software Engineering**: Production-ready code with proper architecture
