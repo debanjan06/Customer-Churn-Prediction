@@ -492,14 +492,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-**Author**: Debanjan SHil 
+**Author**: Debanjan Shil 
 **Email**: [debanjanshil66@gmail.com]  
 **LinkedIn**:https://www.linkedin.com/in/debanjan06
 
 
 ## 🎓 Academic Context
 
-This project was developed as part of a Masters program in Data Sciencendemonstrating:
+This project was developed as part of a Master Of Technology in Data Science demonstrating:
 
 - **Advanced ML Concepts**: Gradient boosting theory, statistical learning bounds
 - **Software Engineering**: Production-ready code with proper architecture
