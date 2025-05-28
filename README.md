@@ -147,7 +147,7 @@ Churn_Prediction/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/churn-prediction-system.git
+git clone https://github.com/debanjan06/churn-prediction-system.git
 cd churn-prediction-system
 ```
 
