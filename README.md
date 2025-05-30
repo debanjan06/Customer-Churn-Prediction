@@ -22,7 +22,7 @@ This project implements a complete machine learning pipeline for telecommunicati
 - ✅ **Containerized Deployment**: Docker and docker-compose ready
 - ✅ **Business Intelligence**: Executive dashboards with ROI analysis
 
-## 🏆 Performance Metrics
+##  Performance Metrics
 
 | Metric | Score | Industry Benchmark |
 |--------|-------|-------------------|
@@ -428,7 +428,7 @@ services:
     command: mlflow server --host 0.0.0.0
 ```
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Common Issues
 
@@ -490,14 +490,12 @@ mypy src/ app/ scripts/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Contact & Support
-
 **Author**: Debanjan Shil 
 **Email**: [debanjanshil66@gmail.com]  
 **LinkedIn**:https://www.linkedin.com/in/debanjan06
 
 
-## 🎓 Academic Context
+##  Academic Context
 
 This project was developed as part of a Master Of Technology in Data Science demonstrating:
 
