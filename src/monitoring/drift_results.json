@@ -1,0 +1,42 @@
+{
+    "SeniorCitizen": {
+        "ks_statistic": 0.005735732535379715,
+        "p_value": 0.999999999999707,
+        "drift_detected": false
+    },
+    "tenure": {
+        "ks_statistic": 0.021175676523429558,
+        "p_value": 0.6834995512009212,
+        "drift_detected": false
+    },
+    "MonthlyCharges": {
+        "ks_statistic": 0.03208543485222162,
+        "p_value": 0.19115443508495597,
+        "drift_detected": false
+    },
+    "TotalCharges": {
+        "ks_statistic": 0.029577343075462195,
+        "p_value": 0.2709525960188033,
+        "drift_detected": false
+    },
+    "tenure_years": {
+        "ks_statistic": 0.021175676523429558,
+        "p_value": 0.6834995512009212,
+        "drift_detected": false
+    },
+    "charges_per_month": {
+        "ks_statistic": 0.025813189866956503,
+        "p_value": 0.43188070423404373,
+        "drift_detected": false
+    },
+    "num_services": {
+        "ks_statistic": 0.020517979528629913,
+        "p_value": 0.7197633762246001,
+        "drift_detected": false
+    },
+    "charges_to_tenure_ratio": {
+        "ks_statistic": 0.021485188401656474,
+        "p_value": 0.6659016226412933,
+        "drift_detected": false
+    }
+}

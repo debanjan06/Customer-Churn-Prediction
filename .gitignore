@@ -1,0 +1,31 @@
+echo # Large data files > .gitignore
+echo data/processed/*.csv >> .gitignore
+echo data/processed/*.pkl >> .gitignore
+echo *.csv >> .gitignore
+echo !data/raw/*.csv >> .gitignore
+echo. >> .gitignore
+echo # Python >> .gitignore
+echo __pycache__/ >> .gitignore
+echo *.pyc >> .gitignore
+echo *.pyo >> .gitignore
+echo *.pyd >> .gitignore
+echo. >> .gitignore
+echo # MLflow >> .gitignore
+echo mlruns/ >> .gitignore
+echo mlflow/ >> .gitignore
+echo. >> .gitignore
+echo # Test reports >> .gitignore
+echo test_report_*.json >> .gitignore
+echo. >> .gitignore
+echo # Visualizations >> .gitignore
+echo *.png >> .gitignore
+echo *.jpg >> .gitignore
+echo *.jpeg >> .gitignore
+echo. >> .gitignore
+echo # IDEs >> .gitignore
+echo .vscode/ >> .gitignore
+echo .idea/ >> .gitignore
+echo. >> .gitignore
+echo # OS >> .gitignore
+echo .DS_Store >> .gitignore
+echo Thumbs.db >> .gitignore

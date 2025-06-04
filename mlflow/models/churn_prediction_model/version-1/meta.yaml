@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747972108345
+current_stage: None
+description: null
+last_updated_timestamp: 1747972108345
+name: churn_prediction_model
+run_id: beffd5b42119432387f485b447c0531d
+run_link: null
+source: file:///C:/Users/DEBANJAN SHIL/Documents/Churn_Prediction/mlflow/563500302151887607/beffd5b42119432387f485b447c0531d/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/DEBANJAN SHIL/Documents/Churn_Prediction/mlflow/563500302151887607/beffd5b42119432387f485b447c0531d/artifacts/model
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DEBANJAN SHIL/Documents/Churn_Prediction/mlflow/563500302151887607/beffd5b42119432387f485b447c0531d/artifacts
+end_time: 1747972108416
+entry_point_name: ''
+experiment_id: '563500302151887607'
+lifecycle_stage: active
+run_id: beffd5b42119432387f485b447c0531d
+run_name: churn_prediction_model_v1
+run_uuid: beffd5b42119432387f485b447c0531d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747972060537
+status: 3
+tags: []
+user_id: DEBANJAN SHIL

@@ -1,0 +1,124 @@
+{
+  "summary": {
+    "total_tests": 16,
+    "passed": 13,
+    "failed": 3,
+    "success_rate": 0.8125,
+    "total_duration": 2.9113030433654785,
+    "timestamp": "2025-05-25T22:06:55.603592"
+  },
+  "results": [
+    {
+      "test": "API Container Status",
+      "success": true,
+      "details": "Status: running",
+      "duration": 0,
+      "timestamp": "2025-05-25T22:06:53.423964"
+    },
+    {
+      "test": "MLflow Container Status",
+      "success": true,
+      "details": "Status: running",
+      "duration": 0,
+      "timestamp": "2025-05-25T22:06:53.437141"
+    },
+    {
+      "test": "Root Endpoint",
+      "success": true,
+      "details": "Status: 200, Message: Welcome to the Churn Prediction API",
+      "duration": 0.014099597930908203,
+      "timestamp": "2025-05-25T22:06:53.452869"
+    },
+    {
+      "test": "Health Check",
+      "success": true,
+      "details": "Healthy: True, Model Loaded: True",
+      "duration": 0.015993356704711914,
+      "timestamp": "2025-05-25T22:06:53.468862"
+    },
+    {
+      "test": "Model Info",
+      "success": true,
+      "details": "Model: <class 'xgboost.sklearn.XGBClassifier'>, Features: 7076",
+      "duration": 0.2599642276763916,
+      "timestamp": "2025-05-25T22:06:53.735695"
+    },
+    {
+      "test": "Feature Engineering",
+      "success": false,
+      "details": "Original: 19, Processed: 8",
+      "duration": 0.3540637493133545,
+      "timestamp": "2025-05-25T22:06:54.092291"
+    },
+    {
+      "test": "High-Risk Customer",
+      "success": true,
+      "details": "Prob: 0.650, Pred: True, Factors: 3",
+      "duration": 0.0711512565612793,
+      "timestamp": "2025-05-25T22:06:54.168590"
+    },
+    {
+      "test": "Low-Risk Customer",
+      "success": false,
+      "details": "Prob: 0.650, Pred: True, Factors: 3 (Expected low risk)",
+      "duration": 0.04993891716003418,
+      "timestamp": "2025-05-25T22:06:54.219940"
+    },
+    {
+      "test": "Edge Case - Zero Tenure",
+      "success": true,
+      "details": "Prob: 0.650, Pred: True, Factors: 3",
+      "duration": 0.05814003944396973,
+      "timestamp": "2025-05-25T22:06:54.280261"
+    },
+    {
+      "test": "Invalid JSON Handling",
+      "success": true,
+      "details": "Status: 422",
+      "duration": 0.022656679153442383,
+      "timestamp": "2025-05-25T22:06:54.306958"
+    },
+    {
+      "test": "Missing Fields Handling",
+      "success": true,
+      "details": "Status: 422",
+      "duration": 0.030591964721679688,
+      "timestamp": "2025-05-25T22:06:54.339707"
+    },
+    {
+      "test": "Invalid Data Types",
+      "success": true,
+      "details": "Status: 422",
+      "duration": 0.01098489761352539,
+      "timestamp": "2025-05-25T22:06:54.352890"
+    },
+    {
+      "test": "Performance Test",
+      "success": true,
+      "details": "Avg: 0.046s, Max: 0.063s, Min: 0.036s, Success: 100.0%",
+      "duration": 0,
+      "timestamp": "2025-05-25T22:06:55.285978"
+    },
+    {
+      "test": "MLflow UI Access",
+      "success": true,
+      "details": "Status: 200",
+      "duration": 0.10224413871765137,
+      "timestamp": "2025-05-25T22:06:55.397242"
+    },
+    {
+      "test": "MLflow Experiments",
+      "success": false,
+      "details": "API Status: 400",
+      "duration": 0,
+      "timestamp": "2025-05-25T22:06:55.424427"
+    },
+    {
+      "test": "Prediction Consistency",
+      "success": true,
+      "details": "Predictions: [0.65, 0.65, 0.65]",
+      "duration": 0,
+      "timestamp": "2025-05-25T22:06:55.559294"
+    }
+  ]
+}
