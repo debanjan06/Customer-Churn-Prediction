@@ -389,8 +389,8 @@ pre-commit install
 ## 📞 **Contact & Support**
 
 - **Author**: Debanjan Shil
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **Email**: debanjanshil66@gmail.com
+- **LinkedIn**: [[LinkedIn]](https://www.linkedin.com/in/debanjan06/)
 - **Project Demo**: [Live Demo Link]
 
 ---
