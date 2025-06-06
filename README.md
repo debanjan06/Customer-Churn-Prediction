@@ -367,10 +367,6 @@ MAX_WORKERS=5
 
 ---
 
-## 🤝 **Contributing**
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
 ### **Development Setup**
 ```bash
 # Create development environment
