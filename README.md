@@ -387,7 +387,7 @@ pre-commit install
 - **Author**: Debanjan Shil
 - **Email**: debanjanshil66@gmail.com
 - **LinkedIn**: [[LinkedIn]](https://www.linkedin.com/in/debanjan06/)
-- **Project Demo**: [Live Demo Link]
+- **Medium**: [Live Demo Link](https://medium.com/@debanjanshil66/building-a-production-ready-customer-churn-prediction-system-from-data-to-docker-to-dashboard-b81255d82566)
 
 ---
 
