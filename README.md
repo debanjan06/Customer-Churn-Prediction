@@ -382,7 +382,7 @@ pre-commit install
 
 ---
 
-## 📞 **Contact & Support**
+## **Author**
 
 - **Author**: Debanjan Shil
 - **Email**: debanjanshil66@gmail.com
@@ -391,7 +391,7 @@ pre-commit install
 
 ---
 
-## 🏆 **Recognition**
+## **Recognition**
 
 This project demonstrates:
 - ✅ **Production-Ready ML Systems** design and implementation
